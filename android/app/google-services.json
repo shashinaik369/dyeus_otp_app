@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070313524371",
+    "project_id": "dyeus-otp-signin",
+    "storage_bucket": "dyeus-otp-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070313524371:android:6c69aaff96b5e481ab5166",
+        "android_client_info": {
+          "package_name": "com.example.dyeus_otp_signin_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070313524371-heq9mikkbjd8a2f4mjkf72dtd70dego3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dyeus_otp_signin_assignment",
+            "certificate_hash": "84e02253d56ec6daf024912cd9052fb6ec749169"
+          }
+        },
+        {
+          "client_id": "1070313524371-e64mlqm0at5elru3bk9aqk1aoaut98qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnqNeJ4BEzCYLXQltNIucsKhqd0wbGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070313524371-e64mlqm0at5elru3bk9aqk1aoaut98qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
